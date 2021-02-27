@@ -1,1 +1,1 @@
-# Pyhon-Snake-game-
+# Python-Snake-game-
